@@ -1,7 +1,8 @@
 # pyon-mc
 
 ## Useful Command
-- /skills      see your skills
+- /skills
+  see your skills
 - /trust
 - /trustlist
 - /gems shop

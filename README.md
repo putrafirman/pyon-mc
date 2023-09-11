@@ -2,7 +2,7 @@
 
 ## Useful Command
 - /skills
-  see your skills
+-- see your skills
 - /trust
 - /trustlist
 - /gems shop
